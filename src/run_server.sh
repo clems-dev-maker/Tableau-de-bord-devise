@@ -1,1 +1,0 @@
-C:\\Users\\Clément\\PycharmProjects\\TableauDeBordDevise\\env\\Scripts\\python.exe C:\\Users\\Clément\\PycharmProjects\\TableauDeBordDevise\\src\\manage.py runserver
